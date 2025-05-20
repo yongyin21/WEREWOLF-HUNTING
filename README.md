@@ -2,7 +2,7 @@
 
 A Python/Pygame strategy game where players hunt for a hidden wolf among bushes. Features health systems, score tracking, and dynamic difficulty.
 
-![Gameplay Demo](assets/Final_Game_Screen.png) *(Add your own screenshot)*  
+![Gameplay Demo](assets/Final_Game_Screen.png)
 
 ---
 
